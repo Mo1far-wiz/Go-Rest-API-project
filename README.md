@@ -3,7 +3,6 @@
 This project is just a very lightweight Go Rest-API realization.
 As main library for development Gin was used, for DB sqlite and JWT for user authorization.
 
-##
 
 ### To run :
 ```cli
