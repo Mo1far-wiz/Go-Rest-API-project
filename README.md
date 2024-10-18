@@ -17,4 +17,4 @@ go run .
 
 ## API tests
 
-There are folder called ```api-test``` with ready-to-use http-requests. To easily use them in VS Code i have an extension called [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client).
+There are folder called ```api-test``` with ready-to-use http-requests. To easily use them in VS Code you can install an extension called [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client).
