@@ -8,7 +8,7 @@ To run :
 ```cli
 git clone https://github.com/Mo1far-wiz/Go-Rest-API-project.git
 
-cd Go-Rest-API-project
+cd Go-Rest-API-project/
 
 go mod tidy
 
